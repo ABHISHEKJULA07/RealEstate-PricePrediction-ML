@@ -3,10 +3,15 @@ from json import load as json_load
 from model import run_model
 from os import path
 from pandas import DataFrame
+from zipfile import ZipFile
 
 
 class RealEstate:
     def __init__(self):
+        if not path.isdir('data') and path.isfile('data.zip'):
+            with ZipFile('data.zip', 'r') as f:
+                f.extractall()
+
         cache_dir = path.join('data', 'cache')
         headers_path = path.join(cache_dir, 'headers.json')
         model_path = path.join(cache_dir, 'model.sav')
