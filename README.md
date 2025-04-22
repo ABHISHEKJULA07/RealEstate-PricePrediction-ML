@@ -8,18 +8,25 @@ A web application that takes in details about the property you're looking for, a
 
 This project requires the following software:
 
-- docker:24
+- docker: 28.0 or above
+- 7z: 24 or above
 
 ## Usage
 
-Open Docker Desktop and run the following command in the terminal at the root of this repository:
+1. Extract `server/data.7z` into `server`.
 
-```bash
-docker-compose up --build
-```
+   ```bash
+   7z x "server/data.7z" -o"server"
+   ```
 
-To stop the container, run the following command:
+2. Open Docker Desktop and run the following command in the terminal at the root of this repository:
 
-```bash
-docker-compose down
-```
+   ```bash
+   docker compose up --build
+   ```
+
+   To stop the container, run the following command:
+
+   ```bash
+   docker compose down
+   ```
