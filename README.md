@@ -40,14 +40,3 @@ This project is a machine learning-based solution to **predict real estate price
 4. **Open and run**
    ```bash
    RealEstate_Predictor_EDA.ipynb
-
-
-
-
-
-
-
-          
-          
-          
-
