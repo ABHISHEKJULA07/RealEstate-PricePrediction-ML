@@ -32,3 +32,13 @@ This project is a machine learning-based solution to **predict real estate price
    ```bash
    git clone [https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA](https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA)
    cd RealEstate-Predictor-using-ML-EDA
+   
+2. **Install the Required Packages**
+
+```bash
+pip install -r requirements.txt
+
+3. **Run the Notebook**
+```bash
+Copy code
+jupyter notebook
