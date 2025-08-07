@@ -34,12 +34,12 @@ This project is a machine learning-based solution to **predict real estate price
 2. **Install the Required Packages**
    ```bash
    pip install -r requirements.txt
-3.**Run the Notebook**
+3. **Run the Notebook**
    ```bash
    jupyter notebook.
 4. **Open and run**
    ```bash
-RealEstate_Predictor_EDA.ipynb
+   RealEstate_Predictor_EDA.ipynb
 
 
 
