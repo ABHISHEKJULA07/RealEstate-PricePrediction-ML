@@ -1,32 +1,34 @@
-# Real Estate Price Predictor
+# 🏡 RealEstate Price Predictor using ML & EDA
 
-## Description
+This project is a machine learning-based real estate price prediction system focused on Hyderabad and Mumbai. It includes complete data preprocessing, exploratory data analysis (EDA), model building, and evaluation to deliver accurate price predictions from real-world housing features.
 
-A web application that takes in details about the property you're looking for, and provides an estimation of the price according to the data provided to train the model. The data provided with this project contains 9000 listings of properties from the cities Hyderabad and Banglore.
+---
 
-## Requirements
+## 📌 Features
 
-This project requires the following software:
+- Performed extensive **Exploratory Data Analysis (EDA)** to identify trends, outliers, and key price drivers.
+- Cleaned and processed **90,000+ property listings** using Pandas and NumPy.
+- Applied models like **Linear Regression** and **Random Forest**, optimized with grid search.
+- Used **feature engineering** and **correlation analysis** to boost model performance.
+- Evaluated models using **R² Score**, **MSE**, and visual plots (residual, scatter, etc.).
 
-- docker: 28.0 or above
-- 7z: 24 or above
+---
 
-## Usage
+## 🛠️ Tech Stack
 
-1. Extract `server/data.7z` into `server`.
+| Tool / Library       | Purpose                               |
+|----------------------|----------------------------------------|
+| Python               | Core programming language              |
+| Pandas, NumPy        | Data wrangling and numerical analysis  |
+| Matplotlib, Seaborn  | Visualization                          |
+| Scikit-learn         | ML model training and evaluation       |
+| Jupyter Notebook     | Interactive development environment    |
 
+---
+
+## 🚀 How to Run
+
+1. **Clone this repo:**
    ```bash
-   7z x "server/data.7z" -o"server"
-   ```
-
-2. Open Docker Desktop and run the following command in the terminal at the root of this repository:
-
-   ```bash
-   docker compose up --build
-   ```
-
-   To stop the container, run the following command:
-
-   ```bash
-   docker compose down
-   ```
+   git clone https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA
+   cd RealEstate-Predictor-using-ML-EDA
