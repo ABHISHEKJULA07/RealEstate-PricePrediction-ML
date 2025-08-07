@@ -27,13 +27,15 @@ This project is a machine learning-based solution to **predict real estate price
 ---
 ## 🚀 How to Run the Project
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA
-   cd RealEstate-Predictor-using-ML-EDA
+```bash
+# 1. Clone the Repository
+git clone https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA
+cd RealEstate-Predictor-using-ML-EDA
 
-   Install the Required Packages
-
-bash
-Copy code
+# 2. Install the Required Packages
 pip install -r requirements.txt
+
+# 3. Run the Notebook
+jupyter notebook
+
+# 4. Open and run: RealEstate_Predictor_EDA.ipynb
