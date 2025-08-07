@@ -40,3 +40,10 @@ This project is a machine learning-based solution to **predict real estate price
 4. **Open and run**
    ```bash
    RealEstate_Predictor_EDA.ipynb
+   ## 👨‍💻 Developed By
+
+**Abhishek Jula**, Dhruv Uniyal, Tarun Sri Sai Vadlapatla, John Nikhil Bonam, Ms. A. Madhavi  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
+💻 [GitHub](https://github.com/ABHISHEKJULA07)  
+🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
+📧 abhishekjula018@gmail.com
