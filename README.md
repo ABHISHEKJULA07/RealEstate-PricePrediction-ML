@@ -1,4 +1,4 @@
-# 🏡 RealEstate Price Predictor using ML & EDA
+#  RealEstate Price Predictor using ML & EDA
 
 This project is a machine learning-based solution to **predict real estate prices** based on key features such as location, area, number of bedrooms, and more. It covers the full pipeline — from **exploratory data analysis (EDA)** to **model building and evaluation** — using real-world housing data from Hyderabad and Mumbai.
 
@@ -40,9 +40,11 @@ This project is a machine learning-based solution to **predict real estate price
 4. **Open and run**
    ```bash
    RealEstate_Predictor_EDA.ipynb
-   ## 👨‍💻 Developed By
+   
+  ## 👨‍💻 Developed By
 
-**Abhishek Jula**, Dhruv Uniyal, Tarun Sri Sai Vadlapatla, John Nikhil Bonam, Ms. A. Madhavi  
+**Abhishek Jula** 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
