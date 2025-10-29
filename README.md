@@ -29,7 +29,7 @@ This project is a machine learning-based solution to **predict real estate price
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ABHISHEKJULA07/RealEstate-Predictor-using-ML-EDA
+   git clone [https://github.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML]
    cd RealEstate-Predictor-using-ML-EDA
 2. **Install the Required Packages**
    ```bash
