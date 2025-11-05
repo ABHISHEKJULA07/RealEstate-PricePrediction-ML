@@ -1,4 +1,4 @@
-#  RealEstate Price Predictor using ML & EDA
+# RealEstate Price Predictor using ML & EDA
 
 This project is a machine learning-based solution to **predict real estate prices** based on key features such as location, area, number of bedrooms, and more. It covers the full pipeline — from **exploratory data analysis (EDA)** to **model building and evaluation** — using real-world housing data from Hyderabad and Bengaluru.
 
@@ -25,27 +25,31 @@ This project is a machine learning-based solution to **predict real estate price
 | Jupyter Notebook | Interactive development environment |
 
 ---
-##  How to Run the Project
+
+## How to Run the Project
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML
    cd RealEstate-PricePrediction-ML
-2. **Install the Required Packages**
-   ```bash
-   pip install -r requirements.txt
-3. **Run the Notebook**
-   ```bash
-   jupyter notebook.
-4. **Open and run**
-   ```bash
-   main.py
-   
-  ## 👨‍💻 Developed By
+   ```
 
-**Abhishek Jula** 
+2. **Bring up the docker containers**
+
+   ```bash
+   docker compose up --build
+   ```
+
+3. **Go to the website**
+
+   Open the browser and go to `http://localhost`
+
+## 👨‍💻 Developed By
+
+Abhishek Jula
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
 💻 [GitHub](https://github.com/ABHISHEKJULA07)  
 🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
-📧 abhishekjula018@gmail.com
+📧 <mailto:abhishekjula018@gmail.com>

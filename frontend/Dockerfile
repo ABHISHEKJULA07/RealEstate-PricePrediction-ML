@@ -1,4 +1,4 @@
-FROM node:18 AS build
+FROM node:18-slim AS build
 WORKDIR /app/frontend
 COPY package*.json ./
 RUN npm install

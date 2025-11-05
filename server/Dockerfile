@@ -1,4 +1,4 @@
-FROM python:3.11.5
+FROM python:3.11.5-slim
 WORKDIR /app/server
 COPY requirements.txt ./
 RUN pip install -r requirements.txt
