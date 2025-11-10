@@ -47,35 +47,29 @@ This project is a machine learning-based solution to **predict real estate price
    ## 📸 Project Demo
 
 <!-- Home Page -->
-<table>
-  <tr>
-    <td align="center"><b>Home Page</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20141835.png" width="500"/>
-    </td>
-  </tr>
-</table>
+<h2 align="center">📸 Project UI Preview</h2>
 
-<br/>
+<!-- Home Page -->
+<div align="center" style="padding:15px; border:1px solid #ddd; border-radius:10px; margin-bottom:25px;">
+  <h3>🏠 Home Page</h3>
+  <img 
+    src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20141835.png"
+    width="80%"
+  />
+</div>
 
 <!-- Results Page -->
-<table>
-  <tr>
-    <td align="center"><b>Results Page</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png" width="500"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png" width="500"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="padding:15px; border:1px solid #ddd; border-radius:10px;">
+  <h3>📊 Results Page</h3>
 
+  <img 
+    src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png" 
+    width="80%" 
+    style="margin-bottom:15px;"
+  />
 
-
+  <img 
+    src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png" 
+    width="80%"
+  />
+</div>
