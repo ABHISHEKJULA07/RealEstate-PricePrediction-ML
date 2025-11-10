@@ -49,18 +49,27 @@ This project is a machine learning-based solution to **predict real estate price
 <table>
   <tr>
     <td align="center"><b>Home Page</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png" width="500"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
     <td align="center"><b>Prediction Page</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png" width="400"/></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png" width="500"/>
+    </td>
   </tr>
 </table>
 
 
-![Screenshot2](https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png)
-
-
-![Screenshot2](https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png)
 
 
