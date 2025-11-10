@@ -45,11 +45,5 @@ This project is a machine learning-based solution to **predict real estate price
 
    Open the browser and go to `http://localhost`
 
-## 👨‍💻 Developed By
+![Working Screenshot](https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20134934.png)
 
-Abhishek Jula
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abhi-jula0711)  
-💻 [GitHub](https://github.com/ABHISHEKJULA07)  
-🌐 [Portfolio](https://abhipinku66.wixsite.com/07112000)  
-📧 <mailto:abhishekjula018@gmail.com>
