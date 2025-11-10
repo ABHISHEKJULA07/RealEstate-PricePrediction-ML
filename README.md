@@ -52,8 +52,8 @@ This project is a machine learning-based solution to **predict real estate price
     <td align="center"><b>Prediction Page</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20134934.png" width="400"/></td>
     <td><img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140111.png" width="400"/></td>
+    <td><img src="https://raw.githubusercontent.com/ABHISHEKJULA07/RealEstate-PricePrediction-ML/main/frontend/src/assets/Screenshot%202025-11-10%20140426.png" width="400"/></td>
   </tr>
 </table>
 
