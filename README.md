@@ -1,6 +1,6 @@
 # RealEstate Price Predictor using Machine Learning.
 
-This project is a machine learning-based solution to **predict real estate prices** based on key features such as location, area, number of bedrooms, and more. It covers the full pipeline — from **exploratory data analysis (EDA)** to **model building and evaluation** — using real-world housing data from Hyderabad and Mumbai.
+A machine learning–based project to predict real estate prices using features such as location, area, and number of bedrooms, covering the full pipeline from EDA to model evaluation on real-world housing data from Hyderabad and Mumbai.
 
 
 ## How to Run the Project
